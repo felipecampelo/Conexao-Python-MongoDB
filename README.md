@@ -1,2 +1,9 @@
-# Conexao-Python-MongoDB
-Código de conexão do Python via Google Colab com o MongoDB.
+##`CRUD`
+
+✅ Create: `Inserir dados`
+
+✅ Read: `Buscar dados`
+
+✅ Update: `Atualizar dados`
+
+✅ Delete: `Deletar dados`
